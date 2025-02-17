@@ -31,7 +31,7 @@ Pull requests are welcome! If you’d like to contribute, please fork the repo a
 This project is open-source under the **MIT License**.  
 
 ## 📢 Connect  
-For updates and discussions, follow me on [LinkedIn](www.linkedin.com/in/ahmed-mussadiq-03444226b) or check out my [Medium blog]([https://medium.com/@your-username](https://medium.com/@mussadiqahmed90/generating-roman-urdu-poetry-with-lstms-47f1c4b7c770)
+For updates and discussions, follow me on [LinkedIn](www.linkedin.com/in/ahmed-mussadiq-03444226b) or check out my [Medium blog](https://medium.com/@mussadiqahmed90/generating-roman-urdu-poetry-with-lstms-47f1c4b7c770)
 
 
   
